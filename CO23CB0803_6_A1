@@ -1,0 +1,20 @@
+<html> 
+
+<title> Mad Libs Stpry
+</title>
+
+<body>
+<script>
+
+var noun1 = "dog";
+var verb1 = "run";
+var adjective1 = "happy";
+var story = "The [adjective1] [noun1] likes to [verb1] in the park.";
+story = "The " + adjective1 + " " + noun1 + " likes to " + verb1 + " in the park.";
+document. write(story);
+document.write("<br>");
+
+</script>
+</body>
+
+</html>
