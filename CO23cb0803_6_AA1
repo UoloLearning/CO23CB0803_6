@@ -1,0 +1,25 @@
+<html> 
+
+<title> Mad Libs Stpry
+</title>
+
+<body>
+<script>
+
+var myString = "She said, \"Hello!\""; //This will escape the inner quotes. 
+
+document. write(myString);
+document.write("<br>");
+
+document. write(myString.length);
+document.write("<br>");
+
+document. write(myString.toUpperCase());
+document.write("<br>");
+
+document.write(myString.toLowerCase());
+
+</script>
+</body>
+
+</html>
